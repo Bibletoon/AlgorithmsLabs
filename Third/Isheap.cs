@@ -14,23 +14,24 @@ namespace AlgorithmsLabs.Third
             bool isHeap = true;
             for (int i = 0; i < n / 2; i++)
             {
-                if (2*i+2<=n && Int32.Parse(arr[i])>Int32.Parse(arr[2*i+1]))
+                if (2 * i + 2 <= n && Int32.Parse(arr[i]) > Int32.Parse(arr[2 * i + 1]))
                 {
                     isHeap = false;
                     break;
                 }
-                if (2 * i + 3 <= n && Int32.Parse(arr[i]) > Int32.Parse(arr[2*i+2]))
+                if (2 * i + 3 <= n && Int32.Parse(arr[i]) > Int32.Parse(arr[2 * i + 2]))
                 {
                     isHeap = false;
                     break;
                 }
-                
+
             }
             StreamWriter outputFile = new StreamWriter("isheap.out");
             if (isHeap)
             {
                 outputFile.WriteLine("YES");
-            } else
+            }
+            else
             {
                 outputFile.WriteLine("NO");
             }
