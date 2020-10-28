@@ -17,3 +17,17 @@
 * [Число инверсий](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Second/Inversions.cs)
 * [Анти QuickSort](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Second/Antiqs.cs)
 * [K-ая порядковая статистика](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Second/KStatistics.cs)
+
+## [Третья лабораторная](https://github.com/Bibletoon/AlgorithmsLabs/tree/master/Third)
+* [Пирамида ли?](https://github.com/Bibletoon/AlgorithmsLabs/tree/master/Third/Isheap.cs)
+* [Пирамидальная сортировка](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Third/HeapSort.cs)
+* [Цифровая сортировка](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Third/RadixSort.cs)
+* [Приоритетная очередь](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Third/PriorityQueue.cs)
+
+## [Четвёртая лабораторная](https://github.com/Bibletoon/AlgorithmsLabs/tree/master/Fourth)
+* [Стек](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Stack.cs)
+* [Очередь](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Queue.cs)
+* [Правильная скобочная последовательность](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Brackets.cs)
+* [Постфиксная запись](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Postfix.cs)
+* [Двоичный поиск](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Binsearch.cs)
+* [Гирлянда](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Garland.cs)
