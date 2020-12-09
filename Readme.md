@@ -31,3 +31,22 @@
 * [Постфиксная запись](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Postfix.cs)
 * [Двоичный поиск](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Binsearch.cs)
 * [Гирлянда](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fourth/Garland.cs)
+  
+## [Пятая лабораторная](https://github.com/Bibletoon/AlgorithmsLabs/tree/master/Fifth)
+* [Высота дерева](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Height.cs)
+* [Проверка корректности](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Check.cs)
+* [Простое двоичное дерево поиска](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/BST.cs)
+* [Интерпрктатор ящыка Quack](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Quack.cs)
+
+## [Шестая лабораторная](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth)
+* [Set](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth/Set.cs)
+* [Map](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth/Map.cs)
+* [LinkedMap](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth/LinkedMap.cs)
+* [MultiMap](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth/MultiMap.cs)
+
+## [Седьмая лабораторная](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Seventh)
+* [Проверка сбалансированности](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Seventh/Balance.cs)
+* [Делаю я левый поворот...](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Seventh/Rotation.cs)
+* [Вставка в АВЛ-дерево](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Seventh/Addition.cs)
+* [Удаление из АВЛ-дерева](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Seventh/Deletion.cs)
+* [Упорядоченное множество на АВЛ-дереве](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Seventh/Avlset.cs)
