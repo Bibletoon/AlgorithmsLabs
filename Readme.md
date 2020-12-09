@@ -36,7 +36,7 @@
 * [Высота дерева](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Height.cs)
 * [Проверка корректности](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Check.cs)
 * [Простое двоичное дерево поиска](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/BST.cs)
-* [Интерпрктатор ящыка Quack](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Quack.cs)
+* [Интерпрктатор языка Quack](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Fifth/Quack.cs)
 
 ## [Шестая лабораторная](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth)
 * [Set](https://github.com/Bibletoon/AlgorithmsLabs/blob/master/Sixth/Set.cs)
